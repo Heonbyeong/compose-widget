@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">compose-widget</string>
+    <string name="greeting_widget_description">Greeting Test Widget</string>
 </resources>
